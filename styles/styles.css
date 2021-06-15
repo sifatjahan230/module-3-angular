@@ -1,5 +1,6 @@
 h1 {
   margin-bottom: 30px;
+  color: whitw;
 }
 input[type="text"] {
   width: 200px;
@@ -8,7 +9,7 @@ input[type="text"] {
 .narrow-button {
   float: left;
   margin-left: 10px;
-	margin-top:-15px;
+  margin-top:-15px;
 }
 .loader {
   display: none;
